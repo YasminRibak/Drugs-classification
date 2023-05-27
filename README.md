@@ -26,4 +26,5 @@ analyze the data in order to build a model for prediction, of which drug would b
 
 'Drug'- drug type.
 
-## **Note: steps which are about to be added: target encoding, predictions and error evaluation.**
+## **Note: steps which are about to be added:*
+**target encoding, predictions and error evaluation.**
