@@ -13,15 +13,15 @@ analyze the data in order to build a model for prediction, of which drug would b
 
 'Age'- age of patients.
 
-Sex- F(female) or M(male).
+'Sex'- F(female) or M(male).
 
-BP- blood presure levels (HIGH\NORMAL\LOW).
+'BP'- blood presure levels (HIGH\NORMAL\LOW).
 
-Cholesterol- cholesterol levels (HIGH\NORMAL).
+'Cholesterol'- cholesterol levels (HIGH\NORMAL).
 
-Na_to_K- sodium a to Potassium Ratio.
+'Na_to_K'- sodium a to Potassium Ratio.
 
 
 ## **Target**:
 
-Drug- drug type.
+'Drug'- drug type.
