@@ -9,7 +9,7 @@ a data set of patients who received different drugs.
 analyze the data in order to build a model for prediction, of which drug would be suitable for a future patient.
 
 
-**features:**
+## **features:**
 
 'Age'- age of patients.
 
@@ -22,6 +22,6 @@ Cholesterol- cholesterol levels (HIGH\NORMAL).
 Na_to_K- sodium a to Potassium Ratio.
 
 
-**Target**:
+## **Target**:
 
 Drug- drug type.
