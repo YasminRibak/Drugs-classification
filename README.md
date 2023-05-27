@@ -1,7 +1,8 @@
 # Drugs-classification-B
 A supervised classification problem. 
 
-## **Given:** a data set of patients who received different drugs.
+## **Given:** 
+a data set of patients who received different drugs.
 
 
 ## **Goal:** 
